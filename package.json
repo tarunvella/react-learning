@@ -1,0 +1,44 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is a react learning repo following a pathway from beginner to pro",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunvella/react-learning.git"
+  },
+  "keywords": [],
+  "author": "Tarun Kumar Vella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunvella/react-learning/issues"
+  },
+  "dependencies": {
+    "babel-core": "^4.7.16",
+    "babel-preset-react": "^6.16.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.18.0",
+    "jsx-loader": "^0.9.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
